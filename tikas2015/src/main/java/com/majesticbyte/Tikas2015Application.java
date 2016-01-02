@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Tikas2015Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Tikas2015Application.class, args);
+		//SpringApplication.run(Tikas2015Application.class, args);
+            SpringApplication.run(Hello.class, args);
 	}
 }
