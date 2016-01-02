@@ -1,5 +1,6 @@
-package com.majseticbyte;
+package com.majesticbyte;
 
+import com.majesticbyte.Tikas2015Application;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.SpringApplicationConfiguration;
